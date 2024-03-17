@@ -1,0 +1,20 @@
+{
+  "name": "random-msg-xb",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xeba94/random-msg-xb.git"
+  },
+  "bin": {
+    "random-msg-xb": "./bin/global.js"
+  },
+  "keywords": [],
+  "author": "José Betancourt <josebetancourt94@outlook.es>",
+  "license": "MIT",
+  "preferGlobal": true
+}
